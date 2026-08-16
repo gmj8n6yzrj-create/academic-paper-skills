@@ -8,9 +8,9 @@ A narrative review
 
 ## Abstract
 
-Statutory social work in England is organised around an expectation that families will change, and change within timescales set by the court and the child protection plan. The profession's account of how that change happens rests largely on the relationship between worker and family. Relationship-based practice describes the medium in which change occurs, and the observational research shows that what workers actually do inside that relationship varies widely. Neither body of work specifies the mechanism, which leaves practice difficult to teach, difficult to supervise and difficult to test. This narrative review reads four bodies of behavioural science against that gap: capability, opportunity and motivation as the conditions a behaviour requires; habit as repetition of a specified action in a stable context; shame as the condition that determines whether help can be received at all; and scarcity as a constraint on the cognitive capacity that services routinely demand. The review argues that behavioural science names mechanisms social workers already use without describing, and that naming them makes practice teachable and auditable. It separates the mechanism that produces immediate safety, which is the removal of opportunity and works within hours, from the mechanism that produces durable change, which is repetition in a stable context and works over months, and argues that child protection planning merges the two and then judges both by the same evidence at the same review. It also argues that the individual frame of much behavioural science fails on contact with poverty and statutory power, and that the shame literature is where social work has most to give the behavioural sciences rather than take from them. Implications for planning, supervision and research are set out.
+Statutory social work in England is organised around an expectation that families will change, and change within timescales set by the court and the child protection plan. The profession's account of how that change happens rests largely on the relationship between worker and family. Relationship-based practice describes the medium in which change occurs, and the observational research shows that what workers actually do inside that relationship varies widely. Neither body of work specifies the mechanism, which leaves practice difficult to teach, difficult to supervise and difficult to test. This narrative review reads four bodies of behavioural science against that gap: capability, opportunity and motivation as the conditions a behaviour requires; habit as repetition of a specified action in a stable context; shame as the condition that determines whether help can be received at all; and scarcity as a constraint on the cognitive capacity that services routinely demand. The review argues that behavioural science names mechanisms social workers already use without describing, and that naming them makes practice teachable and auditable. It reads mentalising and epistemic trust as the link between shame and the failure of advice to land, and it argues that systemic technique, particularly future-oriented reflexive questioning, already produces the behavioural specificity the habit literature calls for, with the authorship left in the parent's hands. It separates the mechanism that produces immediate safety, which is the removal of opportunity and works within hours, from the mechanism that produces durable change, which is repetition in a stable context and works over months, and argues that child protection planning merges the two and then judges both by the same evidence at the same review. It also argues that the individual frame of much behavioural science fails on contact with poverty and statutory power, and that the shame literature is where social work has most to give the behavioural sciences rather than take from them. Implications for planning, supervision and research are set out.
 
-**Keywords:** child protection, behaviour change, habit formation, shame, motivational interviewing, relationship-based practice, help-seeking
+**Keywords:** child protection, behaviour change, habit formation, shame, mentalisation, epistemic trust, systemic practice, motivational interviewing, relationship-based practice, help-seeking
 
 ---
 
@@ -140,6 +140,87 @@ This is also where the cost to the worker becomes visible. Workers manage their 
 
 For practice, this means that once the immediate safety task has been done, the first behavioural task is making help receivable. Nothing in the habit or motivation literature works on a person who is concealing, and the act that secured the child's immediate safety is often the same act that gave the parent most reason to conceal.
 
+## Mentalising, reflective function and epistemic trust
+
+Shame explains why a parent conceals. Mentalising explains what happens to their thinking while they do it, and why the conversation that follows so often fails to land.
+
+Reflective functioning is the capacity to understand behaviour, one's own and other people's, in terms of the mental states underneath it. Fonagy, Steele, Steele, Moran and Higgitt (1991) introduced the construct in attachment research, and its parental form is the capacity to hold the child in mind as a person with intentions of their own rather than as a set of behaviours directed at the parent. Luyten, Mayes, Nijssens and Fonagy (2017) developed a self-report measure of it across three studies with community samples of parents, including 153 first-time parents and 136 mothers whose infants were assessed with the Strange Situation Procedure. Those are non-clinical volunteer samples completing a self-report questionnaire, and the measure's behaviour with parents under statutory investigation, who have obvious reasons to answer strategically, is a different question.
+
+The construct matters here because of what plans actually ask parents to do. "Respond appropriately to Kayden's distress" is a mentalising task before it is a behavioural one. The parent has to work out what the crying is about, which requires holding a mind other than their own in view while their own is under pressure. A parent who cannot do that at the moment it is required will fail the behavioural target however motivated they are and however well the cue is specified. In the terms used earlier in this review, this is a capability condition, and it is the one most often recorded as a motivation problem.
+
+Mentalising is also load-sensitive. Under high arousal it degrades, and thinking about minds gives way to faster, more automatic assumptions about intent (Fonagy and Allison, 2014). The practice consequence is uncomfortable, because it says something about how the system is built. The conversations in which social workers most often try to produce change are held at the points of highest arousal: the doorstep after an incident, the strategy discussion, the conference table with twelve professionals and one parent. Those are the moments when the parent's capacity to think about anyone's mind, including the child's, is least available. The work then gets recorded as a parent who would not engage with feedback.
+
+Fonagy and Allison (2014) add the concept that connects this to the rest of the paper. Epistemic trust is a person's willingness to treat what another person tells them as trustworthy, relevant and worth generalising to their own life. Where it is absent, accurate information does not get taken in, because the problem is not the content but the channel. Their argument is that epistemic mistrust is frequently an adaptation to environments in which trusting people has been costly, rather than a deficit in the individual.
+
+That reframes a familiar recording. "Mother does not accept advice" describes a channel that is closed, and the closure may be the most rational thing about her history. It also puts a question to the profession that the behavioural literature does not ask: what has to be true of a relationship before the person in it can let another person's account of their child count as knowledge? Fonagy and Allison developed this account in psychotherapy, with adults who came voluntarily and could leave. A social worker holds statutory power, and it is an open question whether epistemic trust of the kind they describe is available at all inside a mandated relationship, or whether what practice achieves is something more limited and more provisional.
+
+The one intervention in this area built for child protection populations is the Lighthouse Parenting Programme, a mentalization-based programme designed to reduce maltreatment by developing parents' curiosity about their child's inner world and their capacity to inhibit harmful responses in moments of misunderstanding. Byrne, Sleed, Midgley, Fearon, Mein, Bateman and Fonagy (2019) report a description and pilot evaluation, with findings suggesting improvements in parenting confidence and sensitivity, and parents valuing the programme. It is a pilot without a control group, and it cannot support a claim that the programme reduces maltreatment. What it does support is that the mechanism can be deliberately targeted in this population rather than treated as a fixed characteristic of the parent.
+
+Three things follow for the way change work is sequenced.
+
+Shame, mentalising and epistemic trust form a chain, and it runs in one direction. High shame degrades mentalising, degraded mentalising closes the channel through which the worker's information could travel, and a closed channel means nothing the worker says lands regardless of how correct it is. The behaviour then appears in the record as refusal. Where a case is stuck, this chain is worth checking before the plan is escalated, because escalation raises arousal and moves every link in the wrong direction.
+
+The timing of change conversations is a variable practitioners control. Having the conversation when arousal has come down is a technique, and it costs nothing except the discipline to not use the doorstep.
+
+The worker's own reflective function is part of the mechanism. A worker who is themselves under threat, from a deadline, an audit or a manager, mentalises the family less well and reverts to assumptions about intent. This is where the supervision finding from earlier in the review does its damage. Supervision that operates as management oversight (Wilkins, Forrester and Grant, 2017) leaves the worker's own capacity to think about the family unsupported at exactly the point it is under most pressure, and the cost is paid in the quality of the mentalising the parent receives.
+
+## Systemic technique as behaviour change method
+
+The behavioural literature is precise about mechanism and largely silent about who else is in the room. Systemic practice is the reverse, and English children's services have already invested in it, through the Reclaiming Social Work model and its successors (Forrester et al., 2013; Bostock et al., 2017) `[VERIFY: full author lists and the exact titles and publishers of both evaluation reports]`. Those evaluations describe the model and its implementation rather than demonstrating changed outcomes for children, which puts systemic practice in the same evidential position as Signs of Safety: widely adopted, thinly proven.
+
+The argument here is narrower than an effectiveness claim. Systemic technique supplies the specific practice moves that the behavioural mechanisms require, and it supplies two things behavioural science does not: an account of who else has to change for one person's behaviour to change, and an account of whose norms the target behaviour is being measured against.
+
+**Genograms locate the behaviour in a history and identify who can support the change.** McGoldrick, Gerson and Petry (2008) set out the method as a way of organising family information and finding patterns across generations. Used as a behavioural tool rather than an assessment record, it answers questions the plan needs. Who else in this family has parented this way? Who did it differently, and what happened to them? Who would notice if this changed, and who would experience the change as a criticism of them? The last question matters most, because a parent asked to change a routine is often being asked to do so in a household where somebody else benefits from the routine staying as it is. That person is either recruited or they will undo the work, and no amount of specifying cues will help. In behavioural terms the genogram is a map of social opportunity, and it also identifies the person who can act as the reminder, which is a role a plan can name.
+
+**Family scripts explain why the old behaviour is so durable.** Byng-Hall (1995) describes replicative scripts, where a parent repeats what was done to them, and corrective scripts, where they set out to do the opposite and generate a different problem in the process. A mother whose corrective script is that her children will never be frightened of her may find any firm boundary intolerable, and her difficulty with bedtime is then not a skills deficit. Byng-Hall's word for change is improvisation, which is a more accurate description of what a parent is being asked to do than the language of compliance. The practice move is a question: when you are about to shout, whose voice do you hear? The answer usually gives the worker the material the rest of the plan depends on.
+
+**Questioning is where systemic practice and behavioural specificity meet.** Tomm (1988) distinguishes four intents behind a question: lineal, circular, strategic and reflexive, and argues that every question carries an intent whether the interviewer has chosen it or not. In a child protection conversation the four look like this.
+
+- Lineal: "What time do the children go to bed?" It gathers information and it investigates. Used alone, and it usually is used alone, it produces an interview that feels to the parent like an interrogation.
+- Circular: "When Kayden refuses to go up, who notices first? What does your mum do when she sees that happening?" It maps the pattern and the people in it, which is the information the genogram and the opportunity analysis both need.
+- Strategic: "Have you thought about what will happen if this is still the same in three months?" It carries the worker's agenda and the parent will hear it. Tomm's point is that this is legitimate as long as the worker knows they are doing it, and the danger in statutory work is that strategic questions get delivered as though they were curious ones.
+- Reflexive: "If this were working six months from now, who would be the first to notice, and what would they see you doing differently on a Tuesday morning?"
+
+That last question is the one worth dwelling on. A future-oriented reflexive question asks the parent to specify a behaviour, a time and a context, and to do it in their own words. That is the structure Gollwitzer and Sheeran (2006) found produced a medium-to-large effect on goal attainment, arrived at by a route that leaves the authorship with the parent. Systemic practice has been generating implementation intentions for forty years without calling them that, and the behavioural literature has been demonstrating their effect without noticing that the family therapists already had a method for producing them. Naming the overlap is the practical payoff of this review: the worker does not need a new technique, they need to know which of their existing questions is doing the behavioural work and to write the answer down verbatim.
+
+**Curiosity is the stance that keeps the worker's mentalising online.** Cecchin (1987) reframes neutrality as curiosity, a position from which alternative views can keep being generated rather than one hypothesis being confirmed. Mason (1993) makes the related move for risk, arguing for positions of safe uncertainty rather than the false comfort of safe certainty. Both are directly relevant to the mentalising argument above, because premature certainty about what a parent intends is what mentalising failure looks like in a professional.
+
+**The Social GGRRAAACCEEESSS ask whose norm the target behaviour encodes.** Burnham (2012) develops the mnemonic with the distinctions between what is visible and invisible, and what is voiced and unvoiced, which is the part that does the work here. Before a behavioural target is written, it is worth asking which differences the target quietly assumes. A bedtime routine assumes a household not working night shifts. An expectation of a quiet space for homework assumes a certain number of rooms. A target about the children eating together assumes a faith calendar and an income. Race, class and disability are frequently visible and unvoiced in these conversations, which is Burnham's precise point, and an unvoiced difference will show up later as non-compliance.
+
+This is the i-frame problem at the scale of a single plan. A behavioural target that encodes a middle-class domestic norm as a safety requirement will fail, and the failure will be recorded as the parent's.
+
+**Motivational interviewing supplies the micro-technique for the conversation itself.** Miller and Rollnick (2023) set out engaging, focusing, evoking and planning, with change talk as the material the worker is listening for. Three moves are worth naming because they are teachable and observable.
+
+Reflecting change talk selectively: when a parent says "I do want them in school, I just can't get them out the door", the second clause is the problem and the first clause is the lever, and the reflection goes to the first.
+
+The importance and confidence rulers: "on a scale of nought to ten, how important is this to you? Why is it a four and not a two?" The question is constructed so the parent argues for change, which is the technical point of it.
+
+Asking permission before giving information: "would it be useful if I told you what I know about how other families have handled that?" This looks like courtesy and it is a procedure for opening the epistemic channel described in the previous section. Information offered after permission is more likely to be received as knowledge, which is what Fonagy and Allison's (2014) account would predict.
+
+## Putting it together: a worked example
+
+The following case is a composite and is not drawn from any single family. It is written out at this length because the argument of this paper is that the mechanism is in the detail, and an argument of that kind should be able to show its own detail.
+
+A referral from school. Kayden, seven, missing around a third of sessions, arriving hungry. His mother, Leanne, is working night shifts three days a week. Her partner Danny is not the child's father, has a history of assaults on a previous partner, and is currently living in the house. The maternal grandmother lives two streets away and does the school run when she can. Leanne has been open to children's services twice before, both times closed at assessment.
+
+**Day one: the opportunity, not the person.** The immediate risk is Danny's presence and the immediate task is to remove the opportunity for harm rather than to change anyone's understanding of anything. That produces a safety arrangement with names and dates: where Danny is staying, who is in the house overnight, what happens if he arrives. It is verifiable and it is reviewed by checking whether it is in place. It is also, at this point, produced by the mandate and not by agreement, and the plan should say so rather than describing Leanne as having engaged well.
+
+**Week one: the channel.** Leanne has been assessed twice and closed twice, which is a history that teaches a specific lesson about what professionals do with what she says. The worker names the power at the start: what they can do, what they are worried about, what would have to change, and what happens if it does not. Naming it reduces the shame less than concealing it increases it. Then the worker asks permission before offering anything, and keeps asking. The aim of the first fortnight is not the behavioural target. It is a channel through which anything can be received at all.
+
+**Weeks one to three: the map and the script.** The genogram is drawn with Leanne rather than about her. It shows her mother two streets away, doing school runs on the days she can, and it shows that Leanne's own attendance collapsed at eleven when her mother was working nights. The question that opens the script is asked directly: when you are trying to get him up and it is not working, whose voice do you hear? Leanne's answer, in this composite, is that she can hear her mother telling her she is soft. That is a replicative script and a corrective one running at the same time, and it tells the worker that a plan requiring firmness at seven in the morning is asking her to take a position in a forty-year-old family argument.
+
+**The Social GGRRAAACCEEESSS check on the target.** Before writing anything about routine, the worker tests what the target assumes. Three night shifts a week means there is no single stable morning to build a habit in, and the grandmother's availability, not Leanne's motivation, determines which mornings are stable. Class is visible and unvoiced in the school's account of a chaotic home. The target has to be built around the four mornings that can actually be the same, and the plan should say why the other three are excluded rather than recording partial compliance later.
+
+**The conversation, with the question types used deliberately.** The circular questions map the pattern: who notices first when Kayden will not get up, what does your mum say when she arrives, what does Danny do when the shouting starts. The reflexive question does the behavioural work: if this were working in three months, who is the first person who would notice, and what would they see you doing on a Tuesday? Leanne's answer, in her own words, is the plan. The strategic question, about what happens if nothing changes, is asked once, knowingly, and not disguised as curiosity.
+
+**Evoking, and then writing it down verbatim.** The importance ruler produces the reason, in her words, that she wants him in school. The plan then reads: on the four mornings I am not on shift, when my alarm goes at half six, I will put Kayden's uniform on the end of his bed before I go downstairs. It names a cue, an action and a context, it is hers, and it is reviewable against something other than an opinion about her commitment.
+
+**Friction.** The uniform is at the launderette. The school breakfast club needs a form that has to be printed. The bus that gets him there on grandmother days runs at ten past. Each of these is a step that can be removed, and removing them does more for attendance than another meeting about attendance. The worker fills in the breakfast club form in the kitchen rather than posting it.
+
+**Review, with two clocks.** At twelve weeks the safety arrangement is verifiable: either Danny has been in the house or he has not. The habit is not verifiable, because on the median timeline it is not yet a habit, and the conference is told this in those words. What can be reported is whether the cue is being met on the four mornings, what interrupted it, and what came off the friction list. The failure this prevents is the conference reading a maintained safety arrangement as evidence that Leanne has changed, and closing.
+
+**What would go wrong.** If the conference is the first place Leanne hears the concerns stated in full, her mentalising will be offline for the meeting that matters most, and everything above is wasted. If the worker's supervision has been case oversight rather than an examination of their own thinking, the worker will arrive at the twelve-week point with a view of Leanne that has hardened, and the hardening will read in the record as evidence about her. Both failures are organisational rather than individual, and both are more likely than the failure of the behavioural technique.
+
 ## Bandwidth, friction and the limits of the individual frame
 
 The last body of work explains a category of practice failure that is regularly misread as attitude.
@@ -160,11 +241,13 @@ The literature reviewed here supports a specific account of how change happens i
 
 Immediate safety runs on one mechanism: the opportunity to cause harm is removed, by separation, supervision, a change of arrangement or a change of place. It is fast, it is verifiable on the day, and it depends on the statutory mandate rather than on the parent's agreement. It is also the only part of this account that a plan can reasonably expect to see completed within days.
 
-Durable change runs on four conditions, and they hold in order.
+Durable change runs on five conditions, and they hold in order.
 
 **Help has to be receivable.** Shame determines whether a parent can talk about their own behaviour at all. The worker's task is to reduce the shame the process generates, which means naming the power they hold rather than performing its absence, separating the act from the person in the way plans and reports are written, and giving the parent something to be recognised for. Nothing else in this list functions before this one does.
 
-**The behaviour has to be the parent's, and specified.** Motivation is a state produced by conditions, of which autonomy is one, so the target behaviour and the reason for it come from the parent through evoking rather than from the worker through instruction. The behaviour is then specified to the level of a cue, an action and a context, in the parent's words.
+**The parent has to be able to think about minds, and to receive.** Most behavioural targets in child protection are mentalising tasks in disguise, and mentalising degrades under arousal. Alongside it sits epistemic trust, without which accurate information does not get taken in. The worker's moves here are the timing of the conversation, asking permission before giving information, and keeping their own curiosity available. This condition also runs on the worker's reflective function, which is what supervision is for and largely does not do.
+
+**The behaviour has to be the parent's, and specified.** Motivation is a state produced by conditions, of which autonomy is one, so the target behaviour and the reason for it come from the parent through evoking rather than from the worker through instruction. A future-oriented reflexive question is the most efficient way to get there, and the answer is written into the plan verbatim as a cue, an action and a context.
 
 **The context has to be stable enough to repeat in.** Habits form through repetition in a consistent context. Where the context is unstable, because of housing, income, shift patterns or contact arrangements, stabilising the context is the intervention and the behavioural work waits. This is the point at which practice has to act at the level of the family's material conditions rather than their intentions.
 
@@ -187,12 +270,19 @@ The error the two-part account is designed to prevent is the common one: reading
 - Where a family's living context cannot support repetition, name that in the plan as the reason the behavioural target is being deferred, rather than recording non-compliance.
 - Name the power you hold in the first conversation. Shame is worse where the power is unspoken.
 - Where the behaviour generating the risk belongs to a perpetrator, keep the behavioural target on that person. A protective target set for the other parent is a different intervention and should be recorded as one.
+- Ask a future-oriented reflexive question, then write the answer into the plan in the parent's exact words. This is the cheapest behavioural technique available and it is already in systemic training.
+- Test every behavioural target against the Social GGRRAAACCEEESSS before it is written down. Name the difference the target assumes, or it will reappear later as non-compliance.
+- Ask permission before giving information, every time, and treat the permission as the point rather than the politeness.
+- Do not hold the change conversation at the moment of highest arousal. Mentalising is offline on the doorstep and in the conference, which are the two places practice most often chooses.
+- Draw the genogram with the parent to find out who has to be recruited for the change to survive, and name that person in the plan.
 
 **For organisations and supervisors**
 
 - Make the worker's behaviour a standing item in supervision, using an observational method rather than case narrative.
 - Audit plans for whether the technique is specified, not only whether the outcome is.
 - Check whether review conferences are reading completed safety arrangements as evidence of learned behaviour. The two are produced by different mechanisms and only one of them survives case closure.
+- Treat systemic training as a set of observable techniques rather than a statement of values. Audit whether the four question types appear in recorded practice, and whether anyone can tell which intent they were asked with.
+- Ask what the conference and the strategy meeting are doing to the arousal of the person whose behaviour the plan depends on, and whether the sequence could be arranged differently.
 - Read patterns of non-engagement as service design data before reading them as family characteristics.
 - Examine what the organisation does with practitioner error, since the culture that shames workers produces the documentation that shames parents.
 
@@ -204,12 +294,19 @@ The error the two-part account is designed to prevent is the common one: reading
 - What would a shame-reducing child protection process look like at the level of process design, and can it be tested against the current one?
 - What happens to behaviour secured by a safety arrangement once the arrangement lapses, and can the point of return be predicted from how the change was produced in the first place?
 - Can plans that separate the two clocks be compared with plans that merge them, on the accuracy of decisions made at review?
+- Does a behavioural intention produced by a reflexive question differ, in durability or in what the parent says about it, from one elicited by the standard technique?
+- Can parental reflective functioning be measured usefully in parents under statutory investigation, or does the mandate make self-report uninterpretable?
+- Is epistemic trust available inside a mandated relationship, and what would count as evidence that it had been established rather than performed?
 
 ## What this review does not claim
 
 It does not claim that behavioural techniques produce change in child protection. That has not been demonstrated, and the strongest adjacent evidence, on motivational interviewing skills, found a skill gain that did not move family outcomes.
 
 It does not claim that the four conditions above operate in the order given for every family, only that the literature supports that ordering as a default and that shame is the constraint most often left unaddressed.
+
+The worked example is a composite written to show what the argument means in practice. It demonstrates nothing. No part of it has been tested, and a plausible illustration is the weakest form of evidence there is.
+
+The mentalising and systemic literatures drawn on here come almost entirely from psychotherapy with people who attended voluntarily. Every claim made from them about statutory work is an extrapolation across the exact variable, coercion, that the argument says matters most.
 
 It does not claim that the two clocks are always separable in practice. Some safety arrangements depend on a parent's cooperation to hold, which makes them partly developmental from the first day, and the account offered here does not resolve those cases.
 
@@ -225,9 +322,19 @@ Baginsky, M., Ixer, G. and Manthorpe, J. (2020) 'Working with Signs of Safety: p
 
 Bandura, A. (1977) 'Self-efficacy: toward a unifying theory of behavioral change', *Psychological Review*, 84, pp. 191–215.
 
+Bostock, L., Patrizo, L., Godfrey, T. and Forrester, D. (2017) *Scaling and Deepening the Reclaiming Social Work Model: Evaluation Report*. Children's Social Care Innovation Programme Evaluation Report 45. London: Department for Education `[VERIFY: full author list, report number and year against the published report]`.
+
 Brown, B. (2006) 'Shame resilience theory: a grounded theory study on women and shame', *Families in Society*, 87, pp. 43–52.
 
+Burnham, J. (2012) 'Developments in Social GRRRAAACCEEESSS: visible-invisible and voiced-unvoiced', in Krause, I.-B. (ed.) *Culture and Reflexivity in Systemic Psychotherapy: Mutual Perspectives*. London: Karnac Books, pp. 139–160 `[VERIFY: the mnemonic is spelled inconsistently across sources. Check the spelling used in the chapter title itself.]`.
+
+Byng-Hall, J. (1995) *Rewriting Family Scripts: Improvisation and Systems Change*. New York: Guilford Press.
+
+Byrne, G., Sleed, M., Midgley, N., Fearon, P., Mein, C., Bateman, A. and Fonagy, P. (2019) 'Lighthouse Parenting Programme: description and pilot evaluation of mentalization-based treatment to address child maltreatment', *Clinical Child Psychology and Psychiatry*, 24(4), pp. 680–693.
+
 Bywaters, P., Scourfield, J., Webb, C., Morris, K., Featherstone, B., Brady, G., Jones, C. and Sparks, T. (2020) *The Child Welfare Inequalities Project: Final Report*. Huddersfield: University of Huddersfield / Nuffield Foundation `[VERIFY: full author list and publisher statement from the report's title page]`.
+
+Cecchin, G. (1987) 'Hypothesizing, circularity, and neutrality revisited: an invitation to curiosity', *Family Process*, 26, pp. 405–413.
 
 Chase, E. and Walker, R. (2013) 'The co-construction of shame in the context of poverty: beyond a threat to the social bond', *Sociology*, 47(4), pp. 739–754.
 
@@ -243,11 +350,17 @@ Ferguson, H. (2016) 'Researching social work practice close up: using ethnograph
 
 Ferguson, H. (2017) 'How children become invisible in child protection work: findings from research into day-to-day social work practice', *British Journal of Social Work*, 47(4), pp. 1007– `[VERIFY: closing page]`.
 
+Fonagy, P. and Allison, E. (2014) 'The role of mentalizing and epistemic trust in the therapeutic relationship', *Psychotherapy*, 51(3), pp. 372–380.
+
+Fonagy, P., Steele, M., Steele, H., Moran, G.S. and Higgitt, A.C. (1991) 'The capacity for understanding mental states: the reflective self in parent and child and its significance for security of attachment', *Infant Mental Health Journal*, 12(3), pp. 201–218 `[VERIFY: sources disagree on the order of the Steele and Moran initials. Take the order from the article itself.]`.
+
 Forrester, D., Kershaw, S., Moss, H. and Hughes, L. (2008) 'Communication skills in child protection: how do social workers talk to parents?', *Child and Family Social Work*, 13, pp. 41–51.
 
 Forrester, D., McCambridge, J., Waissbein, C. and Rollnick, S. (2008) 'How do child and family social workers talk to parents about child welfare concerns?', *Child Abuse Review*, 17(1), pp. 23–35.
 
 Forrester, D., Westlake, D., Killian, M., Antonopoulou, V., McCann, M., Thomas, R., Waits, C., Whittaker, C. and Hutchison, D. (2019) 'What is the relationship between worker skills and outcomes for families in child and family social work?', *British Journal of Social Work*, 49(8), pp. 2148–2167 `[VERIFY: full author list against the published paper]`.
+
+Forrester, D., Westlake, D., McCann, M., Thurnham, A., Shefer, G., Glynn, G. and Killian, M. (2013) *Reclaiming Social Work? An Evaluation of Systemic Units as an Approach to Delivering Children's Services*. Luton: University of Bedfordshire `[VERIFY: publisher, place and full author list against the report]`.
 
 Gardner, B., Lally, P. and Wardle, J. (2012) 'Making health habitual: the psychology of "habit-formation" and general practice', *British Journal of General Practice*, 62(605), pp. 664–666.
 
@@ -263,9 +376,15 @@ Lally, P., van Jaarsveld, C.H.M., Potts, H.W.W. and Wardle, J. (2010) 'How are h
 
 Leigh, J., Beddoe, L. and Keddell, E. (2020) 'Disguised compliance or undisguised nonsense? A critical discourse analysis of compliance and resistance in social work practice', *Families, Relationships and Societies*, 9(2), pp. 269– `[VERIFY: closing page]`.
 
+Luyten, P., Mayes, L.C., Nijssens, L. and Fonagy, P. (2017) 'The parental reflective functioning questionnaire: development and preliminary validation', *PLoS ONE*, 12(5), e0176218.
+
 MacAlister, J. (2022) *The Independent Review of Children's Social Care: Final Report*. Available at: https://childrenssocialcare.independent-review.uk/ (Accessed: 16 August 2026).
 
 Mani, A., Mullainathan, S., Shafir, E. and Zhao, J. (2013) 'Poverty impedes cognitive function', *Science*, 341(6149), pp. 976–980.
+
+Mason, B. (1993) 'Towards positions of safe uncertainty', *Human Systems*, 4, pp. 189–200.
+
+McGoldrick, M., Gerson, R. and Petry, S. (2008) *Genograms: Assessment and Intervention*. 3rd edn. New York: W.W. Norton.
 
 Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., Eccles, M.P., Cane, J. and Wood, C.E. (2013) 'The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions', *Annals of Behavioral Medicine*, 46(1), pp. 81–95.
 
@@ -284,6 +403,8 @@ Ruch, G., Turney, D. and Ward, A. (eds.) (2018) *Relationship-Based Social Work:
 Ryan, R.M. and Deci, E.L. (2000) 'Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being', *American Psychologist*, 55(1), pp. 68–78.
 
 Tangney, J.P. and Dearing, R.L. (2002) *Shame and Guilt*. New York: Guilford Press.
+
+Tomm, K. (1988) 'Interventive interviewing: Part III. Intending to ask lineal, circular, strategic, or reflexive questions?', *Family Process*, 27(1), pp. 1–15.
 
 Verplanken, B. and Wood, W. (2006) 'Interventions to break and create consumer habits', *Journal of Public Policy and Marketing*, 25(1), pp. 90–103.
 
@@ -307,6 +428,10 @@ Every source in the reference list was checked against a bibliographic record be
 
 3. **Three claims that need a source you hold.** The randomised trial of motivational interviewing training in child protection is reported in the secondary literature and I have not verified the primary citation. Two claims in the Signs of Safety paragraph, on the proportion of English authorities using the model and on the observation of visits with no model elements present, come from evaluation reporting I could not open directly. In the immediate-change section, I cite Project Mirabal for its design and timescale only, because the report itself is behind a blocked domain from here. Its findings on which abusive behaviours reduced and which persisted are the ones the argument wants, and they need to come off the printed page.
 
-4. **Two absences you may want to fill.** The argument touches professional accountability without citing the Social Work England professional standards, and it touches safeguarding process without citing the PCF. I left both out rather than paraphrase a standard I could not read directly. If you want them in, send me the wording of the specific standard or domain and I will place it.
+4. **The worked example.** It is a composite and I have written that into the text. Check it against your own cases for anything that could identify a real family, and change details rather than assume the composite is safe.
+
+5. **The two systemic evaluation reports** (Forrester et al., 2013; Bostock et al., 2017) are cited for design and for the fact of adoption, not for findings. If you want to use their conclusions, the reports need reading directly. The same restraint applies to Tomm's Parts I and II, which exist and which I have not cited because I have only confirmed Part III.
+
+6. **Two absences you may want to fill.** The argument touches professional accountability without citing the Social Work England professional standards, and it touches safeguarding process without citing the PCF. I left both out rather than paraphrase a standard I could not read directly. If you want them in, send me the wording of the specific standard or domain and I will place it.
 
 I have reconciled the reference list against the in-text citations in both directions. Everything in the list is cited in the text and everything cited in the text is in the list.
