@@ -9,9 +9,15 @@
 
 ---
 
+## Teaser text
+
+[BJSW asks for teaser text summarising the article in plain English and scores it. The length specification is not in the guidelines text I have, so confirm it before submission. Draft below.]
+
+Many people who grew up in care find that their social work file is the only record of their own childhood. People who have read their files describe them as patchy, full of what went wrong, and heavily blacked out. One response has been to change how social workers write, so that case notes are addressed directly to the child in everyday words. This paper argues that the change helps with how a record reads, and does not touch what it contains, how long it is kept, or how much of it a person is allowed to see. Those are separate problems, and nobody has yet measured what writing to the child does to the record itself.
+
 ## Abstract
 
-[DRAFT ABSTRACT: to be finalised once the body is settled and the journal's abstract format is confirmed. Do not submit this without checking whether the target journal requires a structured abstract with fixed headings.]
+[Unstructured, 229 words as drafted. The BJSW abstract specification is not in the guidelines text I have. Confirm the word limit and whether structured headings are required before submission.]
 
 Children's social care records are, for many care-experienced adults, the only sustained account of their own childhood. Care-experienced adults report those records as fragmentary, dominated by deficit, and heavily redacted at the point of release. One response gaining ground in children's services is child-directed recording: writing the case record to the child, in the second person, in ordinary words. This paper argues that the reform has been described more broadly than it acts. Writing to the child changes the register of the record and the visibility of its author. The harms reported by care-experienced adults are mostly harms of content, of retention and of access, and those are not reached by a change of pronoun. The paper makes three arguments. First, plain language and second-person address are separate proposals that the field has bundled, and the case for the first is considerably stronger than the case for the second. Second, the identity function of the record has been treated as achievable through style, when it depends on what is recorded, what survives, and what is releasable. Third, the evidence base for child-directed recording is practice conviction rather than evaluation, and no located study measures what the reform does to record content. A comparative argument follows: register reform and access reform are separate projects, and the driver that produced a jurisdiction's record reform appears to determine which project it undertook.
 
@@ -99,11 +105,29 @@ The second is the multiplicity of readers. The file is read by successor social 
 
 The third is the possibility of a specific harm that the reform's own logic creates. If the record is written as a letter from someone who cared, and the person later obtains it alongside the unredacted account of what was decided and what was not done, the warmth of the register becomes evidence of a gap between what was said to them and what was done for them. A cold record is a poor account of a childhood. A warm record that was not matched by action may be a worse one. I have no evidence for this and offer it as a hypothesis that the same evaluation design could test.
 
-Description carries the same problem in a form that address does not touch. "Chaotic", "unkempt", "aggressive" and "unknown males" present the writer's judgement as observation, and what a writer treats as usual, safe or good enough is set by their own position rather than by anything in the room. This is where the Social GGRRAAACCEEESSS earn their place as a working tool rather than a training exercise: the writer's own race, class, culture and family experience determine the threshold at which a household becomes "chaotic" in a sentence that reads as a description of the household. The distributional version of this claim, that such descriptors appear disproportionately in records about Black and mixed heritage families, is a live and evidenced concern in English children's services, and I am not able to source it here [SOURCE NEEDED: empirical study of the distribution of evaluative descriptors in children's social care records by ethnicity in England. This claim must not be made in a submitted draft without it]. Second-person address does nothing about any of this. "Your home was chaotic" preserves the judgement and removes the distance that might have prompted a reader to question it.
-
 There is a further constraint that sits underneath all of it. White, Hall and Peckover argued, in work on the Integrated Children's System and the Common Assessment Framework, that electronic recording systems shape what practitioners are able to think, not only what they are able to write [VERIFY: White, Hall and Peckover, approximately 2009, possibly *British Journal of Social Work*; exact title, year, volume and pages required. This is the strongest theoretical link available to the mode-of-address argument and is worth the time to find]. If that is right, mode of address is a change applied to the surface of a document whose categories have already been fixed by the system that holds it. A dropdown does not become more truthful when the free-text box beneath it is addressed to the child. Reform of the pronoun without reform of the form is a change to the part of the record the practitioner controls least.
 
 What follows for practice is narrower than the field's enthusiasm suggests. A practitioner can adopt first-person authorship and full attribution tomorrow, in any system, with no policy change, and gain most of what child-directed recording promises. A practitioner adopting second-person address should be asked, explicitly and in supervision, whether the entry they have just written contains the same risk detail it would have contained in the third person.
+
+## Description, omission and anti-oppressive practice
+
+Description carries the same problem in a form that address does not reach, and it is where the record does most of its distributional work.
+
+"Chaotic", "unkempt", "aggressive" and "unknown males" present the writer's judgement as observation. What a writer treats as usual, safe or good enough is set by their own position rather than by anything in the room, which is where the Social GGRRAAACCEEESSS do work as a practice tool rather than as a training exercise. The writer's race, class, culture, faith and family experience set the threshold at which a household becomes "chaotic" in a sentence that reads as a description of the household rather than as a judgement about it. Second-person address changes none of this. "Your home was chaotic" preserves the judgement and removes the distance that might have prompted a later reader to question it.
+
+Class sets that threshold most directly, because home conditions are recorded against a standard of household order that is nowhere written down and is not held consistently across a workforce.
+
+Gender is visible in this paper's own example. "Unknown males" names a category by sex and by the absence of information, and it names no person. The same file will ordinarily name the mother, record her decisions, and hold her answerable for what the unknown males did. The grammar carries the allocation: the men are a hazard the household contains, the woman is an agent who failed to exclude them, and neither proposition has been attributed to anyone or tested against anything. A record can be addressed to the child in warm second-person prose and reproduce that structure intact [SOURCE NEEDED: empirical work on the gendered allocation of responsibility in child protection records, including "failure to protect" recorded against mothers and the recording of fathers as unnamed or absent. I am confident this literature exists in England and cannot name it].
+
+Race and ethnicity attract the strongest version of the concern, that evaluative descriptors appear disproportionately in records about Black and mixed heritage families. I am not able to source it here [SOURCE NEEDED: empirical study of the distribution of evaluative descriptors in children's social care records by ethnicity in England. This claim must not appear in a submitted draft without it].
+
+Disability enters twice, and the second way is easy to miss. Parental disability and parental learning disability are recorded predominantly in the deficit register the document already favours, so a parent's support needs and their alleged failings arrive in the file in the same vocabulary. Separately, a record written for eventual reading assumes a reader who can read it. Plain language, and the availability of the file in accessible formats, serve a disabled reader. Second-person address does not, and a disabled care-experienced adult requesting their file encounters the same disclosure process as anyone else, with the same absence of support at the point of release.
+
+Age is what the severity argument in the previous section is about. A writer pitching to the child's present age is making an anti-oppressive judgement about comprehension and a risk judgement about disclosure in the same sentence, without separating them.
+
+Religion, culture, language and sexuality enter through omission rather than through description, and omission is the harder problem. Article 8 protects the child's right to preserve their identity. A file that never records what language was spoken at home, what the family observed and when, what the child was called by people who loved them, or how a young person described their own sexuality, leaves the adult reader without the material to reconstruct any of it. No accountability process asks for those things, which is precisely why the accountability document does not contain them.
+
+That is the clearest case in this paper of something a change of register cannot touch. A practitioner cannot write warmly about a fact they did not record, and the second person offers no prompt to record it. What would prompt it is a recording framework that treats identity material as required content rather than as colour, which is a change to what the form asks for rather than to how the answer is phrased.
 
 ## Whose need does writing to the child meet
 
@@ -143,11 +167,11 @@ The comparative pattern is the most publishable part of this argument and the pa
 
 Different jurisdictions arrived at record reform through different drivers, and the driver appears to determine what gets reformed.
 
-Australia came to records through national inquiry into institutional abuse. The question the inquiry was answering was evidential: what happened, who knew, and what survives to prove it. The reform emphasis falls accordingly on creation, retention and evidential integrity, on making sure a record exists, is complete, and is still there decades later.
+Australia came to records through national inquiry into institutional abuse. The question the inquiry was answering was evidential: what happened, who knew, and what survives to prove it. The reform that followed concentrated on creation, retention and evidential integrity, on making sure a record exists, is complete, and is still there decades later.
 
-England came substantially through care-leaver advocacy and archival research, with the MIRRA project as the clearest instance, and the question being answered was about the experience of reading your own file. The reform emphasis falls on access, on redaction practice, and on the support offered when a file is handed over.
+England came substantially through care-leaver advocacy and archival research, with the MIRRA project as the clearest instance, and the question being answered was about the experience of reading your own file. The reform work went into access, into redaction practice, and into the support offered when a file is handed over.
 
-Denmark, on the only account available to this review, came through direct work with care-experienced young people, and produced principles for how case records should be written [VERIFY: Mette Larsen, Denmark; the nine principles for writing in case records. No publication details available. This is currently sourced only to an unpublished seminar deck and cannot be cited in a submitted paper in that form]. The emphasis falls on register and authorship.
+Denmark, on the only account available to this review, came through direct work with care-experienced young people, and produced principles for how case records should be written [VERIFY: Mette Larsen, Denmark; the nine principles for writing in case records. No publication details available. This is currently sourced only to an unpublished seminar deck and cannot be cited in a submitted paper in that form]. The reform is about register and authorship.
 
 If the pattern holds, the conclusion follows directly and is worth stating: register reform and access reform are separate projects, most jurisdictions have completed at most one, and a country that has fixed access has not thereby fixed what the file says. England's reforms have concentrated on the point of release, decades after the writing. Denmark's have concentrated on the writing, with no account available here of what happens at release.
 
@@ -175,6 +199,10 @@ What would test it is a documented comparison in which the reform documents them
 - Treat subject access as social work practice rather than an administrative function, including a named worker available to read the file alongside the person receiving it.
 - If you are implementing child-directed recording, say explicitly what protection a practitioner has when a personally written entry is later examined in court, in a complaint or in an inspection. Without that, the reform transfers its risk to the individual worker.
 
+**For people who use social work services, and for their families.** The argument here has a direct implication and it is not a comfortable one. A file that reads more kindly is not thereby a fuller file, and a person asking for their records has an interest in what was written down and kept, which is separable from how it was phrased. The questions that determine what a person eventually receives are how long the record is retained, whether identity material was recorded at all, what is removed at disclosure, and whether anyone sits with them while they read it.
+
+- Family members have a distinct interest that the current framework treats only as an obstacle. Under subject access, a parent, sibling or grandparent is third-party personal data to be redacted from the child's file, and the same relative may hold the only account of the family that the record does not contain. There is a case for families being offered a route to contribute their own account, and no mechanism that I am aware of for doing so [SOURCE NEEDED: any scheme allowing family members to contribute to, or attach an account to, a child's social care record].
+
 **For policymakers.** Commission evaluation of what the reform does to record content, not to practitioner satisfaction. A single authority changing its recording policy is a natural experiment and the data already exists.
 
 **For researchers**, written as the questions this review could not answer:
@@ -186,6 +214,18 @@ What would test it is a documented comparison in which the reform documents them
 - Does the relationship between reform driver and reform content hold across jurisdictions not covered here?
 - How are evaluative descriptors distributed across children's social care records by ethnicity and by class in England?
 
+## Ethics and the position this paper is written from
+
+This is a conceptual paper. It reports no empirical data, involved no participants, and required no ethical approval. It uses no case material, and the descriptors examined throughout are phrases in general circulation in English children's services rather than extracts from any identifiable record.
+
+The ethical difficulty is elsewhere, and it applies to the paper itself.
+
+This is an argument about what care-experienced people need from records that are about them, and it is not written with care-experienced people. It draws on participative research in which care-experienced adults set the questions, and then makes a further set of claims that those adults have not been asked about. The central empirical proposition here, that second-person entries may read as warmer while carrying less, is a proposition about how a care-experienced reader would receive a document, advanced by someone who will not receive one. I can state the limit, and stating it does not remove it.
+
+What would resolve it is authorship rather than acknowledgement: the questions this paper raises about second-person entries are answerable by care-experienced adults and by nobody else, and the work that answers them should be led or co-authored by people who have read their own files [CONFIRM: whether you want to approach care-experienced co-authors before submission, and whether to say so in the paper. BJSW states that it prioritises submissions incorporating the perspectives of people with personal experience and can offer additional support to such submissions].
+
+I write as a social work practitioner who has authored records of the kind this paper is about, and who has written entries that a person may one day read and find thin [CONFIRM: how you want your position described, and whether to name your role. Anonymise for double-blind review]. That position gives me access to why practitioners find writing to the child worth doing, and it is also the position with the most to gain from believing that a change of register is sufficient.
+
 ## Limits of the argument
 
 This is a conceptual review without a systematic search, and its coverage reflects what was available in English and what is published rather than what exists. Practice guidance governing recording is largely unpublished and local, and it is likely that implementations of child-directed recording contain safeguards this review has not seen.
@@ -193,6 +233,8 @@ This is a conceptual review without a systematic search, and its coverage reflec
 The paper makes no claim about the effects of child-directed recording on record content, because no evidence about those effects could be located. The severity prediction is a hypothesis derived from the reform's own account of its mechanism, and it may be wrong in either direction: address may restrain dehumanising shorthand without touching risk detail, or it may do neither.
 
 The comparative argument is a hypothesis about three jurisdictions and should be read as a proposal for research rather than a finding.
+
+The paper's standing is limited in the way set out above. It argues about the interests of care-experienced people without being written with them, and its central proposition about how second-person entries would be received is the proposition it is least qualified to advance.
 
 Nothing here argues against writing to children in ways they can understand. The claim is narrower: that the field has bundled a strong proposal with a weak one, has treated a change of register as a solution to problems of content, retention and access, and has adopted a practice without measuring what it does to the document it changes.
 

@@ -72,9 +72,31 @@ Section: *What direct address does to content*. This carries the systems argumen
 
 ---
 
-## Decisions still open for you
+## BJSW conformance
 
-**Target journal and author guidelines.** Nothing in the draft assumes a word limit, an abstract format or a house referencing style, because I have not seen the guidelines. The reference list is generic Harvard. The abstract is a placeholder and should not be finalised until you know whether a structured abstract with fixed headings is required.
+Worked against the guidelines text supplied. Original article, 5,000-7,000 words, not exceeding 8,000, **including references**.
+
+**Word budget.** Abstract and body currently run about 6,550 words with markers stripped, and the reference list is a skeleton. Twenty complete entries will add roughly 500 words, putting the submission near 7,050. That sits inside the hard 8,000 ceiling and just over the preferred 7,000. If it needs to come down, the comparative section is the candidate: cutting it to a discussion paragraph saves around 700 words and removes the least defensible part of the sourcing at the same time.
+
+**Still unknown, not guessed.** Three specifications sit behind the "what needs to be included in submitted manuscripts, presentation guidelines, and referencing" link rather than in the text supplied, and none of them are reconstructed in the draft:
+- Abstract word limit, and whether structured headings are required. The draft abstract is unstructured at 229 words and is marked as provisional.
+- Teaser text length. Drafted at about 120 words and marked as provisional.
+- House referencing style. The reference list is generic Harvard and will need converting.
+
+**Addressed in this revision.**
+- *Anti-oppressive practice made explicit.* This is a scored criterion covering race and ethnicity, sexual orientation, disability and health status, religion, age, gender and class. The draft previously touched race and class inside another section. There is now a dedicated section, *Description, omission and anti-oppressive practice*, working through class, gender, race, disability, age, and religion/culture/language/sexuality. It is not a bolted-on paragraph: the omission argument, that a file which never records what language was spoken at home leaves the reader unable to reconstruct their identity, is the strongest single instance of the paper's own thesis that register cannot reach content.
+- *Ethical issues transparent in all submission types.* New section, *Ethics and the position this paper is written from*. States that there is no data, no participants and no case material, then names the real difficulty, which is standing rather than method.
+- *Implications for people who use services and their families.* New recommendation block. The family angle is the sharper one: under subject access a relative is third-party data to be redacted, and the same relative may hold the only account of the family the record does not contain.
+- *Teaser text in plain English.* Drafted.
+- *International contextualisation.* The comparative section and the scope section carry this.
+
+**Two BJSW points that need a decision from you, not a revision from me.**
+
+1. **Lived experience.** BJSW states that it prioritises submissions incorporating the perspectives of people with personal experience, welcomes submissions led by authors with lived experience, and offers editorial support for them. This paper argues about what care-experienced people need from their records and is not written with care-experienced people. Reviewers who include people with lived experience of social work will see that immediately. The draft now names it as a limit on the paper's standing rather than hiding it, which is the honest minimum, but co-authorship would be the stronger answer and would change how the central untested claim can be put. Worth deciding before submission rather than after review.
+
+2. **Double-blind anonymisation.** The note-to-author block, the `[CONFIRM: ...]` markers about your role, and any identifying detail in the positioning paragraph all come out before submission.
+
+## Decisions still open for you
 
 **Whether the comparative section stays.** It is the most publishable part and the least defensible as currently sourced. Three options: keep it as a hypothesis with the research design attached, as it is now; cut it to a short paragraph in the discussion; or split it off as a separate paper once the jurisdiction gaps are filled.
 
