@@ -8,7 +8,7 @@ A narrative review
 
 ## Abstract
 
-Statutory social work in England is organised around an expectation that families will change, and change within timescales set by the court and the child protection plan. The profession's account of how that change happens rests largely on the relationship between worker and family. Relationship-based practice describes the medium in which change occurs, and the observational research shows that what workers actually do inside that relationship varies widely. Neither body of work specifies the mechanism, which leaves practice difficult to teach, difficult to supervise and difficult to test. This narrative review reads four bodies of behavioural science against that gap: capability, opportunity and motivation as the conditions a behaviour requires; habit as repetition of a specified action in a stable context; shame as the condition that determines whether help can be received at all; and scarcity as a constraint on the cognitive capacity that services routinely demand. The review argues that behavioural science names mechanisms social workers already use without describing, and that naming them makes practice teachable and auditable. It also argues that the individual frame of much behavioural science fails on contact with poverty and statutory power, and that the shame literature is where social work has most to give the behavioural sciences rather than take from them. Implications for planning, supervision and research are set out.
+Statutory social work in England is organised around an expectation that families will change, and change within timescales set by the court and the child protection plan. The profession's account of how that change happens rests largely on the relationship between worker and family. Relationship-based practice describes the medium in which change occurs, and the observational research shows that what workers actually do inside that relationship varies widely. Neither body of work specifies the mechanism, which leaves practice difficult to teach, difficult to supervise and difficult to test. This narrative review reads four bodies of behavioural science against that gap: capability, opportunity and motivation as the conditions a behaviour requires; habit as repetition of a specified action in a stable context; shame as the condition that determines whether help can be received at all; and scarcity as a constraint on the cognitive capacity that services routinely demand. The review argues that behavioural science names mechanisms social workers already use without describing, and that naming them makes practice teachable and auditable. It separates the mechanism that produces immediate safety, which is the removal of opportunity and works within hours, from the mechanism that produces durable change, which is repetition in a stable context and works over months, and argues that child protection planning merges the two and then judges both by the same evidence at the same review. It also argues that the individual frame of much behavioural science fails on contact with poverty and statutory power, and that the shame literature is where social work has most to give the behavioural sciences rather than take from them. Implications for planning, supervision and research are set out.
 
 **Keywords:** child protection, behaviour change, habit formation, shame, motivational interviewing, relationship-based practice, help-seeking
 
@@ -96,6 +96,30 @@ Even discounted, the technique is close to free and it is precisely what most ch
 
 There is a cost to writing plans this way, and it should be stated. Specificity increases the surveillance of small domestic acts, and it hands the worker a more detailed instrument for finding a parent wanting. A plan that names the cue also names the moment of failure. Practitioners writing at this level of detail are increasing their power, not reducing it, and the ethical answer is that the parent authors the implementation intention and the worker records it in the parent's words.
 
+## When safety requires immediate change
+
+Everything in the previous section describes the establishment of a routine over weeks. Most statutory work opens with a demand that something stop tonight. A social worker leaving a house where a baby sleeps in a bed with an intoxicated adult is not running a habit intervention, and a plan that says there will be no further physical punishment is not offering a learning curve. If behavioural science only explains gradual change, it explains the part of the work that is least urgent.
+
+The literature does better than that, provided three change tasks are separated. Plans routinely merge them, and the merger is where much of the confusion in review conferences comes from.
+
+**Stopping a behaviour immediately is achieved by removing the opportunity, not by changing the person.** This follows directly from the same habit model that explains slow acquisition. If habits are cued by context and run without a mediating goal (Wood and Neal, 2007), then the fast route to stopping one is to remove the cue rather than to argue with the intention behind it. Verplanken and Wood (2006) make the point explicitly for policy: interventions aimed at beliefs and intentions are unlikely to change behaviour that has become habitual, and disrupting the environmental cue is what works. Wood, Tam and Guerrero Witt (2005) provide the empirical version, finding that the exercise, reading and television habits of students moving university survived the move only where the performance context stayed the same. That study followed students through a university transfer, and the transfer to abusive or neglectful behaviour in a family home is untested, so this is a mechanism worth reasoning from rather than a finding to apply.
+
+Reasoning from it produces exactly what good safety planning already does. The person who poses the risk leaves the house. A family network member stays the night. The sleeping arrangement changes today. The route home from school changes. Social work has done this for decades and has called it safety planning, disruption or a written agreement. Naming it as opportunity removal, in the sense Michie, van Stralen and West (2011) use, does two things. It explains why these arrangements work faster than any conversation, and it explains why they stop working the moment the arrangement lapses, which is the second task.
+
+**Sustaining the stop after the surveillance ends is a different problem.** Behaviour produced by an external regulator persists while the regulator is present. Ryan and Deci (2000) would predict the return of the behaviour when the plan closes, with no deception on the parent's part required, because nothing about the parent's own reasons has changed. English child protection has a term for what this looks like from the outside. Disguised compliance entered the literature through Reder, Duncan and Gray's (1993) review of 35 child abuse inquiries, where cooperative presentation was found to neutralise professional authority and delay accurate assessment. The concept has since been contested. Leigh, Beddoe and Keddell (2020), analysing how the phrase is used in practice, argue that it does not improve practitioners' ability to detect either resistance or compliance, and that it carries concerns about risk, accountability and blame under cover of a description of the parent.
+
+Both readings are needed and they do not reconcile. Some parents do conceal deliberately, and the inquiry record makes that plain. The behavioural account says something different and more ordinary: a plan that produces change by monitoring will produce change that ends with monitoring, and this will be true of parents who are concealing and parents who are not. The concept of disguised compliance cannot tell those two groups apart, which is a reason to stop treating it as a finding about a family and to start treating it as a predictable output of how the plan was built.
+
+**Building the protective routine is the slow task**, and it runs on the timescales in the previous section.
+
+The consequence is that a case has two clocks running at once. The safety clock runs in hours and is verifiable: either the perpetrator has moved out, or he has not. The habit clock runs in months and is not verifiable at three months, because a habit under construction has not yet formed. The child protection review cycle fits neither, and it asks a conference to judge both on the same date using the same evidence, which in practice means attendance records and self-report.
+
+The timescale problem is sharpest where the behaviour that needs to change is a perpetrator's. Kelly and Westmarland (2015) studied 11 accredited domestic violence perpetrator programmes in the United Kingdom over a period of years, with repeated measurement, which is a reasonable indication of the timescale on which this kind of change is assessed at all `[SOURCE NEEDED: the report's findings on which measures reduced and which persisted at follow-up. Take the figures from the final report before citing them.]` Meanwhile the safety of a child in that household is required now. When a system cannot make the perpetrator's behaviour change quickly, the behavioural demand tends to migrate to the parent it can reach, which is usually the mother, and she is then set habit-formation targets for protective behaviour while the behaviour actually generating the risk is treated as fixed context. That is a misallocation of the mechanism, and it is produced by the mismatch between the two clocks rather than by any individual worker's judgement.
+
+There is one thing to say plainly, because the paper's argument does not work without it. Coercion is effective at the first task. The statutory mandate stops behaviour faster than any technique in this review, and there are children alive because of it. What coercion cannot do is the third task. It does not produce the internalised reasons that keep a child safe after the case closes, and it generates the shame that makes the later conversation harder, which is the subject of the next section. The same act, removing a parent's opportunity to do harm, is both the fastest available safety mechanism and a direct attack on the conditions the durable work depends on. Practitioners live inside that contradiction and it does not resolve. What can be improved is the honesty with which plans record which of the two things they are doing.
+
+For practice, that means writing the immediate safety requirement and the developmental target as separate sections of the plan, with different mechanisms, different evidence and different timescales. The first is a list of opportunities removed, with named people and dates, and it is reviewed by checking whether the arrangement is in place. The second is a cue, an action and a context, authored by the parent, and it is reviewed on a timescale that admits it will not be finished in twelve weeks. Recording both as "Mum will demonstrate sustained change" makes it impossible to tell which one has failed.
+
 ## Shame: the condition that determines whether help can be received
 
 Everything above assumes a person who can discuss their own behaviour with a professional. The shame literature explains why that assumption often fails, and this is the point at which the behavioural sciences need social work more than social work needs them.
@@ -114,7 +138,7 @@ Put the strands together and the analytic point for practice is this. A parent i
 
 This is also where the cost to the worker becomes visible. Workers manage their own shame in this process, in supervision, in audit and in serious case review. A worker who has been shamed for a missed visit becomes a worker who documents defensively, and defensive documentation is written for the record rather than for the family. The organisational culture that shames practitioners is producing the practice that shames parents, and both are produced by the same anxiety about blame.
 
-For practice, this means the first behavioural task in most statutory cases is making help receivable. Nothing in the habit or motivation literature works on a person who is concealing.
+For practice, this means that once the immediate safety task has been done, the first behavioural task is making help receivable. Nothing in the habit or motivation literature works on a person who is concealing, and the act that secured the child's immediate safety is often the same act that gave the parent most reason to conceal.
 
 ## Bandwidth, friction and the limits of the individual frame
 
@@ -132,7 +156,11 @@ English policy has arrived at a version of the same conclusion. MacAlister (2022
 
 ## What the mechanism looks like when it is named
 
-The literature reviewed here supports a specific account of how change happens in statutory family work. Four conditions have to hold, and they hold in order.
+The literature reviewed here supports a specific account of how change happens in statutory family work. It has two parts, because the work has two clocks.
+
+Immediate safety runs on one mechanism: the opportunity to cause harm is removed, by separation, supervision, a change of arrangement or a change of place. It is fast, it is verifiable on the day, and it depends on the statutory mandate rather than on the parent's agreement. It is also the only part of this account that a plan can reasonably expect to see completed within days.
+
+Durable change runs on four conditions, and they hold in order.
 
 **Help has to be receivable.** Shame determines whether a parent can talk about their own behaviour at all. The worker's task is to reduce the shame the process generates, which means naming the power they hold rather than performing its absence, separating the act from the person in the way plans and reports are written, and giving the parent something to be recognised for. Nothing else in this list functions before this one does.
 
@@ -146,20 +174,25 @@ The fifth element is not about the family. **The worker's behaviour is the inter
 
 That last asymmetry is worth stating plainly, because it is the one this review has most confidence in. A child protection plan is a document about a parent's behaviour, written by a professional whose own behaviour is the least documented variable in the case.
 
+The error the two-part account is designed to prevent is the common one: reading the completion of the fast task as evidence about the slow one. A perpetrator who has moved out is a child who is safer tonight. It says nothing about whether anything has been learned, and a review conference that treats the first as evidence of the second is drawing a conclusion the mechanism does not support.
+
 ## What follows for practice
 
 **For practitioners**
 
+- Separate the plan into immediate safety requirements and developmental targets, and use different language for each. Safety requirements name an opportunity removed, a person responsible and a date. Developmental targets name a cue, an action and a context.
 - Write plan actions as cue, action and context, in the parent's words, and record who authored each one.
 - Ask what would make the action easier before asking what would make the parent more committed.
 - Treat a single missed action as noise rather than as evidence about the parent, and say so in the recording.
 - Where a family's living context cannot support repetition, name that in the plan as the reason the behavioural target is being deferred, rather than recording non-compliance.
 - Name the power you hold in the first conversation. Shame is worse where the power is unspoken.
+- Where the behaviour generating the risk belongs to a perpetrator, keep the behavioural target on that person. A protective target set for the other parent is a different intervention and should be recorded as one.
 
 **For organisations and supervisors**
 
 - Make the worker's behaviour a standing item in supervision, using an observational method rather than case narrative.
 - Audit plans for whether the technique is specified, not only whether the outcome is.
+- Check whether review conferences are reading completed safety arrangements as evidence of learned behaviour. The two are produced by different mechanisms and only one of them survives case closure.
 - Read patterns of non-engagement as service design data before reading them as family characteristics.
 - Examine what the organisation does with practitioner error, since the culture that shames workers produces the documentation that shames parents.
 
@@ -169,12 +202,16 @@ That last asymmetry is worth stating plainly, because it is the one this review 
 - What is the timescale of habit formation for parents living with unstable housing and income, and how does it compare with the timescales set by plans and by court?
 - Does observed worker behaviour predict family outcomes when outcomes are measured beyond parent self-report at a single point?
 - What would a shame-reducing child protection process look like at the level of process design, and can it be tested against the current one?
+- What happens to behaviour secured by a safety arrangement once the arrangement lapses, and can the point of return be predicted from how the change was produced in the first place?
+- Can plans that separate the two clocks be compared with plans that merge them, on the accuracy of decisions made at review?
 
 ## What this review does not claim
 
 It does not claim that behavioural techniques produce change in child protection. That has not been demonstrated, and the strongest adjacent evidence, on motivational interviewing skills, found a skill gain that did not move family outcomes.
 
 It does not claim that the four conditions above operate in the order given for every family, only that the literature supports that ordering as a default and that shame is the constraint most often left unaddressed.
+
+It does not claim that the two clocks are always separable in practice. Some safety arrangements depend on a parent's cooperation to hold, which makes them partly developmental from the first day, and the account offered here does not resolve those cases.
 
 It does not claim generalisability beyond England, and the habit and scarcity evidence comes from populations who differ from the families in question in almost every respect that matters.
 
@@ -220,7 +257,11 @@ Gibson, M. (2020) 'The shame and shaming of parents in the child protection proc
 
 Gollwitzer, P.M. and Sheeran, P. (2006) 'Implementation intentions and goal achievement: a meta-analysis of effects and processes', *Advances in Experimental Social Psychology*, 38, pp. 69–119.
 
+Kelly, L. and Westmarland, N. (2015) *Domestic Violence Perpetrator Programmes: Steps Towards Change. Project Mirabal Final Report*. London and Durham: London Metropolitan University and Durham University.
+
 Lally, P., van Jaarsveld, C.H.M., Potts, H.W.W. and Wardle, J. (2010) 'How are habits formed: modelling habit formation in the real world', *European Journal of Social Psychology*, 40(6), pp. 998–1009.
+
+Leigh, J., Beddoe, L. and Keddell, E. (2020) 'Disguised compliance or undisguised nonsense? A critical discourse analysis of compliance and resistance in social work practice', *Families, Relationships and Societies*, 9(2), pp. 269– `[VERIFY: closing page]`.
 
 MacAlister, J. (2022) *The Independent Review of Children's Social Care: Final Report*. Available at: https://childrenssocialcare.independent-review.uk/ (Accessed: 16 August 2026).
 
@@ -234,6 +275,8 @@ Miller, W.R. and Rollnick, S. (2023) *Motivational Interviewing: Helping People 
 
 Munford, R. and Sanders, J. (2020) 'Shame and recognition: social work practice with vulnerable young people', *Child and Family Social Work*, 25 `[VERIFY: issue and page range]`.
 
+Reder, P., Duncan, S. and Gray, M. (1993) *Beyond Blame: Child Abuse Tragedies Revisited*. London: Routledge.
+
 Ruch, G. (2005) 'Relationship-based practice and reflective practice: holistic approaches to contemporary child care social work', *Child and Family Social Work*, 10(2), pp. 111–123.
 
 Ruch, G., Turney, D. and Ward, A. (eds.) (2018) *Relationship-Based Social Work: Getting to the Heart of Practice*. 2nd edn. London: Jessica Kingsley Publishers.
@@ -242,11 +285,15 @@ Ryan, R.M. and Deci, E.L. (2000) 'Self-determination theory and the facilitation
 
 Tangney, J.P. and Dearing, R.L. (2002) *Shame and Guilt*. New York: Guilford Press.
 
+Verplanken, B. and Wood, W. (2006) 'Interventions to break and create consumer habits', *Journal of Public Policy and Marketing*, 25(1), pp. 90–103.
+
 Walker, R. (2014) *The Shame of Poverty*. Oxford: Oxford University Press.
 
 Wilkins, D., Forrester, D. and Grant, L. (2017) 'What happens in child and family social work supervision?', *Child and Family Social Work*, 22(2), pp. 942–951.
 
 Wood, W. and Neal, D.T. (2007) 'A new look at habits and the habit-goal interface', *Psychological Review*, 114 `[VERIFY: issue and page range]`.
+
+Wood, W., Tam, L. and Guerrero Witt, M. (2005) 'Changing circumstances, disrupting habits', *Journal of Personality and Social Psychology*, 88, pp. 918–933.
 
 ---
 
@@ -258,7 +305,7 @@ Every source in the reference list was checked against a bibliographic record be
 
 2. **The review method paragraph.** I have left a placeholder rather than describe a search that was not run. A narrative review can be purposive and expert-led, and can say so, but it has to describe what actually happened.
 
-3. **Two claims that need a source you hold.** The randomised trial of motivational interviewing training in child protection is reported in the secondary literature and I have not verified the primary citation. Two claims in the Signs of Safety paragraph, on the proportion of English authorities using the model and on the observation of visits with no model elements present, come from evaluation reporting I could not open directly.
+3. **Three claims that need a source you hold.** The randomised trial of motivational interviewing training in child protection is reported in the secondary literature and I have not verified the primary citation. Two claims in the Signs of Safety paragraph, on the proportion of English authorities using the model and on the observation of visits with no model elements present, come from evaluation reporting I could not open directly. In the immediate-change section, I cite Project Mirabal for its design and timescale only, because the report itself is behind a blocked domain from here. Its findings on which abusive behaviours reduced and which persisted are the ones the argument wants, and they need to come off the printed page.
 
 4. **Two absences you may want to fill.** The argument touches professional accountability without citing the Social Work England professional standards, and it touches safeguarding process without citing the PCF. I left both out rather than paraphrase a standard I could not read directly. If you want them in, send me the wording of the specific standard or domain and I will place it.
 
