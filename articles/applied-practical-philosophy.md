@@ -8,62 +8,63 @@ Most of us have written one of those. Some of us have read a hundred. We teach r
 
 The distinction matters more than it sounds. A competence question asks whether a worker can perform the task. A capability question asks whether they will keep learning once nobody is checking. Domain 6 of the Professional Capabilities Framework says that reflection 'enables us to challenge ourselves and others, and maintain our professional curiosity, creativity and self-awareness' (British Association of Social Workers (BASW), 2018, p. 8). It does not say how a person gets better at it, or how anyone would know they had.
 
-## What Socrates was actually doing
+## Socrates left a technique, not a syllabus
 
 Socrates, on trial in Athens and arguing for his life, said that the unexamined life is not worth living (Plato, *Apology*, 38a). The line now appears on training slides, usually to introduce a session about journalling.
 
-What he was defending was how he had spent his days: stopping people in the street, asking them what they meant by courage or justice, and following the answer until it broke. The method that got him executed was a conversational technique. He asked for a definition, tested it against a case the definition could not hold, and waited while the other person worked out that they had been carrying a belief without knowing what it rested on.
+What he was defending was how he had spent his days: stopping people in the street, asking them what they meant by courage or justice, and following the answer until it broke. He asked for a definition, tested it against a case the definition could not hold, and waited while the other person worked out they had been carrying a belief without knowing what it rested on.
 
-I am not arguing that social workers should read more philosophy. Reading Plato will not improve a chronology or make a section 47 enquiry more proportionate. What is worth taking from the tradition is its technical apparatus: what counts as a ground for a belief, how a belief is held, and what has to happen for it to change.
+I am not arguing that social workers should read more philosophy. Reading Plato will not improve a chronology or make a section 47 enquiry more proportionate. The inheritance worth having is the technique, and the technical understanding of how a belief is held and what makes it change. That inheritance has been worked into teachable form by educationalists, and there is a substantial body of it we largely ignore.
 
-That apparatus has a long inheritance in our profession, mostly unacknowledged. Aristotle described *phronesis*, practical wisdom, as deliberating well about what to do in circumstances no rule covers in advance, and argued that it is acquired the way any disposition is acquired, by doing it repeatedly until it becomes settled (*Nicomachean Ethics*, Books II and VI). Dewey (1933) defined reflective thought as active, persistent and careful consideration of a belief in the light of the grounds that support it. Schön (1983) put professional knowledge in the swampy lowland where the problems are messy and the technically rigorous answers are not available. Mezirow (1991), drawing on Habermas (1972), asked practitioners to reflect on the premises of a problem rather than on their handling of it.
+## What the education literature already settled
 
-Four traditions, one shape. Each treats reflection as a disposition built by repetition, working on beliefs and the grounds they rest on, rather than as an activity you complete.
+The University of Edinburgh's Reflection Toolkit is the most usable synthesis of that literature I have found, and it is free. It defines reflection as the conscious examination of past experiences, thoughts and ways of doing things, in order to surface learning and bring meaning to the present and the future, and it says that reflection challenges the status quo of practice, thoughts and assumptions (University of Edinburgh, no date a).
 
-## The technicality that decides everything
+That last clause is where the work is. Reflection that records what you did is administration. Reflection that tests what you assumed is the capability the PCF asks for, and the two produce documents that look similar.
 
-How deeply a practitioner can reflect is limited by what they take knowledge to be. This is the piece we leave out, and it is the piece that does the work.
+Systemic practice already has the working stance. A hypothesis is a belief you have agreed in advance to give up, and Mason (1993) described the position to practise from as safe uncertainty, holding a view firmly enough to act on while remaining genuinely open to being wrong. That is a competence rather than a personality trait, and it can be taught directly.
 
-King and Kitchener (1994) mapped this as reflective judgement, moving through three broad levels. Their participants were North American students and adults, so the stages travel to English social work as a developmental pattern rather than as a measure. The pattern is recognisable in supervision.
+The Edinburgh toolkit's own theoretical base is the same lineage social work cites and rarely uses: Dewey, Schön, Boud, Keogh and Walker, Moon and Mezirow (University of Edinburgh, no date b). Their assessment rubric is built on Moon, Schön, Boud and Mezirow, and they report that it has established high inter-rater reliability. Two practice educators in my own research asked the profession for a definition of what they were assessing and tools to develop it, and were told it was in the training. It was not. Something close to it has existed in higher education for years.
 
-A practitioner holding knowledge as certain and possessed by authority looks for the right answer. Reflection becomes checking their practice against procedure, and their honest question is what they should have done. A practitioner holding all evidence as uncertain treats every account as equally weighted. That reads as open-mindedness and works as an inability to decide. In a strategy discussion it produces a worker who can list every family member's perspective and cannot say what they think is happening. A practitioner who can make a judgement, state what it rests on, and give it up when the evidence moves is doing something the first two cannot.
+## The 5R framework: where you are, and what to do next
 
-Systemic practice has a name for the third position. A hypothesis is a belief you have agreed in advance to give up, and Mason (1993) described the working stance as safe uncertainty, holding a position firmly enough to act on while remaining genuinely open to being wrong. That is an epistemological competence rather than a personality trait, and it can be taught directly.
+The toolkit sets out several models, including Gibbs' cycle, Driscoll's What? So what? Now what?, the Integrated Reflective Cycle (Bassot, 2013), and the 5R framework (Bain et al., 2002). Most of them are cycles for working through one event. The 5R framework does something more useful for teaching, because its five stages are a scale of depth. It tells a person where their reflection currently stops.
 
-Moon (2004) makes the same connection: the depth of a person's reflection is limited by their epistemological development, so telling someone to reflect more deeply is useless unless something changes in how they hold what they know.
+**Reporting.** A factual account of what happened, who was there and what the circumstances were, with no interpretation. Accurate and flat.
 
-## Moon as a diagnostic and a training plan
+**Responding.** What the writer felt and how they reacted. Still descriptive.
 
-Moon's map of learning gives five positions: noticing, making sense, making meaning, working with meaning, and transformative learning (Moon, 2004). Her exercise is to take a single event and write it several times, each account going further than the last, so the writer sees the difference between depths in their own words rather than in a definition. Used this way it tells a practitioner where they currently are and what the next repetition is.
+**Relating.** The writer connects the event to something else: previous experience, their own skills, a pattern they have seen before. This is where depth starts.
 
-**Noticing.** The account records what happened. It is accurate, sequenced and flat. The next repetition is to add the writer to it, including what they felt at the time and what they did with that.
+**Reasoning.** The writer explains why it happened as it did, brings in theory or another perspective, and treats their own reading as one account among others.
 
-**Making sense.** The account explains events and gives reasons, all of them consistent with each other and none of them questioned. The next repetition is to write the paragraph the account is avoiding, and to say what else the same facts could mean.
+**Reconstructing.** The writer draws a conclusion they can act on and changes how they will practise next time, with reasons.
 
-**Making meaning.** The account asks what the event meant to the people in it, including the writer, and starts to notice its own standpoint. The next repetition is to set that account beside somebody else's and let it be changed: the family's account, a colleague's, the account of the person who disagreed with you.
+Almost every weak reflective log I have read stops at Responding. The student describes the visit and says they found it difficult, and that is offered as reflection because feelings are present.
 
-**Working with meaning.** The account moves between frames, treats its own interpretation as one reading among several, and can say what would have to be true for it to be wrong. The next repetition is to work backwards from a decision to the assumptions underneath it and test those.
+The value of naming the stage is that it converts an instruction nobody can act on into one they can. 'Reflect more deeply' is useless. 'Your account stops at Responding, so the next move is Relating: what else does this remind you of, and what pattern is it part of?' is a task with an answer. A supervisor can diagnose this from ten minutes of conversation, and the diagnosis names the next repetition rather than delivering a verdict.
 
-**Transformative learning.** The frame itself has moved. The practitioner now sees the case, and often a set of previous cases, differently.
+## Treating it as a muscle
 
-The value for a supervisor is that this is diagnosable from a piece of writing or ten minutes of conversation. You are not asking whether someone is reflective. You are asking which of these five their account is doing, and setting the next repetition accordingly. That is a teaching plan, not a judgement.
+Edinburgh are explicit that a single reflection is worth little. The value comes from repeating the process across a series of experiences until it becomes a habit and a mindset (University of Edinburgh, no date c). The models are circular by design: what you learn from one experience feeds into the next.
 
-## Training the capability
+That is a training principle, and it means reflective capability is built the way any capability is built, by repetition at a level slightly beyond what the person can already do, with feedback. It also means it decays. A practitioner who reflected well as a student and has since written nothing but assessments is not still carrying the capability because they once demonstrated it.
 
-Ericsson et al. (1993) found that expert performance is built by deliberate practice: a task pitched at the edge of current ability, immediate feedback, and repetition with the difficulty increased. Their participants were musicians and athletes, so the transfer to professional judgement is an argument rather than a finding. It still sets a useful test. If a practitioner's reflective work sits inside what they can already do, and nobody responds to it, it is developing nothing.
+Two cautions come from my own research with practice educators. Reflection grows under discomfort and stops under anxiety. Participants located learning in being uncomfortable, and also described students who became anxious enough that they preferred silence to being wrong. Load builds the capability, and too much load stops it.
 
-Two cautions come from my own research with practice educators. The first is that reflection grows under discomfort and stops under anxiety. Participants located learning in being uncomfortable, and also described students who became anxious enough that they preferred silence to being wrong. Load builds the capability; too much load stops it.
+The second caution is about power. One participant observed that power decreases feelings of uncomfortableness. The person setting the load feels less of it than the person carrying it, and the supervisor who decides whether a session was productively challenging is the one who felt least of it.
 
-The second caution is about power, and it is the harder one. One participant observed that power decreases feelings of uncomfortableness. The person setting the load feels less of it than the person carrying it. A supervisor can leave a session judging it productively challenging while the supervisee leaves it frightened, and the supervisor is the one who decides which of those it was.
+Edinburgh reach the same problem from the other direction. When we ask someone to produce a reflection, we create an audience for it, and that has consequences for how authentic mandatory and assessed reflection can be. They are direct that we cannot know whether a reflector is being authentic, and that a person can still reflect honestly within a framework without disclosing more than they want to (University of Edinburgh, no date d).
 
-This is where reflective practice meets a person's relationship to help (Reder and Fredman, 1996). Asking a worker to reflect out loud is asking them to receive help, in front of somebody who may be writing their assessment. Practice educators in my study said, repeatedly, that they recognised self-awareness most reliably by its absence, because absence is easier to evidence than presence. A profession that mainly detects the failure to reflect teaches its members that reflecting out loud is dangerous, and then wonders why the logs read like forms.
+For social work this is the whole difficulty in one sentence. Asking a worker to reflect out loud is asking them to receive help from somebody who may be writing their assessment. Practice educators in my study said they recognised self-awareness most reliably by its absence, because absence is easier to evidence than presence. A profession that mainly detects the failure to reflect teaches its members that reflecting out loud is dangerous, and then wonders why the logs read like forms.
 
 ## What to do on Monday
 
-- Diagnose before you prescribe. Read the next reflective account you are given and locate it on Moon's five, then name the single next repetition rather than asking for more depth in general.
-- Teach the epistemological move explicitly. Ask what this rests on, what would change your mind, and what else these facts could mean. Ask it about your own judgements first.
-- Separate the training session from the assessment. Name out loud which one the conversation is, because the person opposite you cannot always tell.
-- Model being stuck. Say what you do not know while the other person is watching. Reflection is not performed alone in front of a template; it was always a conversation between people who disagreed.
+- Diagnose before you prescribe. Locate the next reflective account you read on the 5R stages, then name the single next move rather than asking for more depth in general.
+- Set the assumption-testing task explicitly. What does this rest on, what would change your mind, and what else could these facts mean. Ask it about your own judgements first.
+- Separate the training conversation from the assessment. Say out loud which one this is, because the person opposite you cannot always tell.
+- Use a published rubric rather than your own instinct, and give it to the person before they write, not after.
+- Reflect on a series, not an incident. Ask what the last four visits have in common, which is a question a single-event cycle cannot reach.
 
 If social work is applied practical philosophy, the practical application is not the canon but the moves: hold a belief as a belief, know what it rests on, put it where it can be tested, and do it often enough that it becomes what you are like rather than what you submitted.
 
@@ -71,22 +72,22 @@ If social work is applied practical philosophy, the practical application is not
 
 ## References
 
+Bain, J.D., Ballantyne, R., Mills, C. and Packer, J. (2002) *Reflecting on Practice: Student Teachers' Perspectives*. Flaxton, Qld: Post Pressed.
+
+Bassot, B. (2013) *The Reflective Journal*. Basingstoke: Palgrave Macmillan.
+
 BASW (2018) *Professional Capabilities Framework*. Birmingham: British Association of Social Workers.
-
-Dewey, J. (1933) *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*. Boston: D.C. Heath.
-
-Ericsson, K.A., Krampe, R.T. and Tesch-Römer, C. (1993) 'The role of deliberate practice in the acquisition of expert performance', *Psychological Review*, 100, 3, pp. 363-406.
-
-Habermas, J. (1972) *Knowledge and Human Interests*. London: Heinemann.
-
-King, P.M. and Kitchener, K.S. (1994) *Developing Reflective Judgment*. San Francisco: Jossey-Bass.
 
 Mason, B. (1993) 'Towards positions of safe uncertainty', *Human Systems*, 4, pp. 189-200.
 
-Mezirow, J. (1991) *Transformative Dimensions of Adult Learning*. San Francisco: Jossey-Bass.
+Moon, J.A. (2004) *A Handbook of Reflective and Experiential Learning: Theory and Practice*. London: RoutledgeFalmer.
 
-Moon, J. (2004) *A Handbook of Reflective and Experiential Learning: Theory and Practice*. London: RoutledgeFalmer.
+University of Edinburgh (no date a) *Reflection Toolkit*. Available at: https://reflection.ed.ac.uk/ (Accessed: [DATE]).
 
-Reder, P. and Fredman, G. (1996) 'The relationship to help: interacting beliefs about the treatment process', *Clinical Child Psychology and Psychiatry*, 1, 3, pp. 457-467.
+University of Edinburgh (no date b) *Reflection literature*. Available at: https://reflection.ed.ac.uk/literature (Accessed: [DATE]).
 
-Schön, D.A. (1983) *The Reflective Practitioner: How Professionals Think in Action*. New York: Basic Books.
+University of Edinburgh (no date c) *Goals, objectives and reflective habits*. Available at: https://reflection.ed.ac.uk/reflectors-toolkit/goals-objectives-habits (Accessed: [DATE]).
+
+University of Edinburgh (no date d) *Authenticity and reflection as performance: reflection with an audience*. Available at: https://reflection.ed.ac.uk/facilitators-toolkit/where-to-start/authenticity-audience (Accessed: [DATE]).
+
+University of Edinburgh (no date e) *The 5R framework for reflection*. Available at: https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience/5r-framework (Accessed: [DATE]).
